@@ -1,3 +1,7 @@
+module.exports = function towelSort (matrix) {
+  return [];
+}
+
 const arr1 = [1, 2, 3];
 const arr2 = [4, 5, 6];
 const arr3 = [7, 8, 9];
@@ -11,6 +15,4 @@ arr4.sort(function(a, b){
 console.log(arr4);
 // You should implement your task here.
 
-module.exports = function towelSort (matrix) {
-  return [];
-}
+
